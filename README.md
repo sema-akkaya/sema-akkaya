@@ -1,6 +1,9 @@
 ### 🖐 Hi!  I'm Semanur AKKAYA
 
+📫 How to reach me:
 
+
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/semanur-akkaya-85149722a/)
  
 <!--
 **sema-akkaya/sema-akkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
